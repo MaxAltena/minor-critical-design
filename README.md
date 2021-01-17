@@ -10,13 +10,13 @@
 
 Find it on [https://critical-design.maxaltena.com/][link:critical-design]!
 
-[img:netlify-status]: https://img.shields.io/netlify/402581fd-8e75-4ea9-b342-e5f95c3e5e7d
+[img:netlify-status]: https://img.shields.io/netlify/5b6b07fd-fb72-4ad4-9f12-ef05ff496dd0
 [link:netlify-status]: https://app.netlify.com/sites/critical-design-maxaltena-com/deploys
-[img:uptimerobot-status]: https://img.shields.io/uptimerobot/status/m786883370-816e420a60e5a1a8e1c5bad4
-[img:uptimerobot-ratio]: https://img.shields.io/uptimerobot/ratio/m786883370-816e420a60e5a1a8e1c5bad4
-[link:uptimerobot-status]: https://status-school.maxaltena.com/786883370
+[img:uptimerobot-status]: https://img.shields.io/uptimerobot/status/m786949551-2231e7948302ed7890cac75d
+[img:uptimerobot-ratio]: https://img.shields.io/uptimerobot/ratio/m786949551-2231e7948302ed7890cac75d
+[link:uptimerobot-status]: https://status-school.maxaltena.com/786949551
 [img:snyk]: https://img.shields.io/snyk/vulnerabilities/github/MaxAltena/minor-critical-design
-[link:snyk]: https://app.snyk.io/org/maxaltena/project/7cc723d9-4561-406a-bb26-a03ef8bc2a77
+[link:snyk]: https://app.snyk.io/org/maxaltena/project/7f20100e-24d7-4c95-b709-43ed6997806c
 [img:github-version]: https://img.shields.io/github/package-json/v/MaxAltena/minor-critical-design
 [link:github-version]: https://github.com/MaxAltena/minor-critical-design
 [img:github-issues]: https://img.shields.io/github/issues/MaxAltena/minor-critical-design
