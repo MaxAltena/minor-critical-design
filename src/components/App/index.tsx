@@ -30,7 +30,7 @@ export const App = ({ bootstrapped }: Props): ReactElement => {
 				animate={{ opacity: loaded ? 0 : 1, pointerEvents: loaded ? "none" : "auto" }}
 				transition={{ duration: 0.5 }}
 			>
-				<FullpageLoader sizeMultiplier={2} speedMultiplier={0.75} backgroundColor={theme.colors.white}>
+				<FullpageLoader sizeMultiplier={2} speedMultiplier={0.75} backgroundColor={theme.colors.black}>
 					<StyledStrong>Loading Digital Detox...</StyledStrong>
 				</FullpageLoader>
 			</motion.div>

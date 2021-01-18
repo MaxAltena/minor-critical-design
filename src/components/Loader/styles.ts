@@ -8,7 +8,7 @@ export const StyledContainer = styled.div<StyledContainerProps>`
 	align-items: center;
 
 	#logo {
-		fill: ${({ theme }) => theme.colors.black};
+		fill: ${({ theme }) => theme.colors.white};
 		${props => (props.speedMultiplier ? `--speed-multiplier: ${props.speedMultiplier};` : `--speed-multiplier: 1;`)}
 
 		@keyframes fade {

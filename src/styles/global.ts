@@ -4,7 +4,9 @@ import { theme } from "@/styles";
 
 export const GlobalStyle = createGlobalStyle`
 	html {
-		background: ${theme.colors.white};
+		background: ${theme.colors.black};
+		color: ${theme.colors.white};
+		overflow-x: hidden;
 	}
 
 	body {
@@ -12,5 +14,13 @@ export const GlobalStyle = createGlobalStyle`
 		font-weight: 400;
 		font-size: 1em;
 		line-height: 1.62em;
+	}
+
+	i {
+		font-style: italic;
+	}
+
+	strong {
+		font-weight: bold;
 	}
 `;
